@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1626086272 source:c:\users\berka\onedrive\desktop\this year\c\c\main.c
+	<stdio.h>
+	<math.h>
+	<ctype.h>
+	<time.h>
+	"heap.h"
+	"sort.h"
+
+1625409752 c:\users\berka\onedrive\desktop\this year\c\c\array.h
+	<stdio.h>
+
+1625158752 c:\users\berka\onedrive\desktop\this year\c\c\search.h
+
+1625225206 source:c:\users\berka\onedrive\desktop\this year\c\c\insertionsort.c
+
+1625158725 source:c:\users\berka\onedrive\desktop\this year\c\c\linearsearch.c
+
+1625257302 c:\users\berka\onedrive\desktop\this year\c\c\sort.h
+
+1625158916 c:\users\berka\onedrive\desktop\this year\c\c\other.h
+
+1625224982 source:c:\users\berka\onedrive\desktop\this year\c\c\binaryadd.c
+
+1625220083 source:c:\users\berka\onedrive\desktop\this year\c\c\orderofgrowth.c
+
+1625225172 source:c:\users\berka\onedrive\desktop\this year\c\c\selectionsort.c
+
+1625248901 source:c:\users\berka\onedrive\desktop\this year\c\c\mergesort.c
+
+1625245334 source:c:\users\berka\onedrive\desktop\this year\c\c\binarysearch.c
+	"array.h"
+
+1625257416 source:c:\users\berka\onedrive\desktop\this year\c\c\bubblesort.c
+
+1625481029 source:c:\users\berka\onedrive\desktop\this year\c\c\findmaxsubarray.c
+
+1625938287 source:c:\users\berka\onedrive\desktop\this year\c\c\permutateinplace.c
+
+1626030979 source:c:\users\berka\onedrive\desktop\this year\c\c\heap.c
+
+1626006123 c:\users\berka\onedrive\desktop\this year\c\c\heap.h
+
