@@ -1,0 +1,372 @@
+# depslib dependency file v1.0
+1571255718 source:c:\users\berkay\desktop\c programming modern approach\learning\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1570203928 source:c:\users\berkay\desktop\c programming modern approach\learning\2.c
+	<stdio.h>
+
+1569582299 source:c:\users\berkay\desktop\c programming modern approach\learning\3.c
+	<stdio.h>
+
+1569788060 source:c:\users\berkay\desktop\c programming modern approach\learning\10.c
+	<stdio.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+
+1568413600 source:c:\users\berkay\desktop\c programming modern approach\learning\2_exercises.c
+	<stdio.h>
+
+1570206906 source:c:\users\berkay\desktop\c programming modern approach\learning\4.c
+	<stdio.h>
+
+1570208281 source:c:\users\berkay\desktop\c programming modern approach\learning\5.c
+	<stdio.h>
+
+1569584620 source:c:\users\berkay\desktop\c programming modern approach\learning\6.c
+	<stdio.h>
+
+1569585676 source:c:\users\berkay\desktop\c programming modern approach\learning\7.c
+	<stdio.h>
+	<ctype.h>
+
+1569782821 source:c:\users\berkay\desktop\c programming modern approach\learning\8.c
+	<stdio.h>
+	<stdbool.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1569785132 source:c:\users\berkay\desktop\c programming modern approach\learning\9.c
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdio.h>
+
+1568415800 source:c:\users\berkay\desktop\c programming modern approach\learning\2_projects.c
+	<stdio.h>
+
+1568419849 source:c:\users\berkay\desktop\c programming modern approach\learning\3_projects.c
+	<stdio.h>
+
+1568422522 source:c:\users\berkay\desktop\c programming modern approach\learning\4_projects.c
+	<stdio.h>
+
+1568495776 source:c:\users\berkay\desktop\c programming modern approach\learning\5_projects.c
+	<stdio.h>
+
+1568501386 source:c:\users\berkay\desktop\c programming modern approach\learning\6_projects.c
+	<stdio.h>
+
+1568566039 source:c:\users\berkay\desktop\c programming modern approach\learning\7_projects.c
+	<stdio.h>
+	<ctype.h>
+
+1568578024 source:c:\users\berkay\desktop\c programming modern approach\learning\8_projects.c
+	<stdio.h>
+	<stdbool.h>
+	<ctype.h>
+
+1568583802 source:c:\users\berkay\desktop\c programming modern approach\learning\9_projects.c
+	<stdio.h>
+
+1568606160 source:c:\users\berkay\desktop\c programming modern approach\learning\11.c
+	<stdio.h>
+	<stdio.h>
+
+1568606886 source:c:\users\berkay\desktop\c programming modern approach\learning\11_projects.c
+	<stdio.h>
+
+1569342398 source:c:\users\berkay\desktop\c programming modern approach\learning\12_projects.c
+	<stdio.h>
+
+1569526329 source:c:\users\berkay\desktop\c programming modern approach\learning\13_projects.c
+	<stdio.h>
+	<string.h>
+
+1570193154 source:c:\users\berkay\desktop\c programming modern approach\learning\13.c
+	<stdio.h>
+	<string.h>
+	<stdio.h>
+	<string.h>
+	<stdio.h>
+	<string.h>
+
+1569783435 source:c:\users\berkay\desktop\c programming modern approach\learning\14.c
+	<stdio.h>
+
+1569783563 source:c:\users\berkay\desktop\c programming modern approach\learning\practise.c
+	<stdio.h>
+
+1571255724 source:c:\users\berkay\desktop\c programming modern approach\learning\thing.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+
+1568603288 source:e:\c programming modern approach\learning\11_projects.c
+	<stdio.h>
+
+1569522730 source:e:\c programming modern approach\learning\13_projects.c
+	<stdio.h>
+	<string.h>
+
+1568412202 source:e:\c programming modern approach\learning\2_projects.c
+	<stdio.h>
+
+1569578700 source:e:\c programming modern approach\learning\3.c
+	<stdio.h>
+
+1568416250 source:e:\c programming modern approach\learning\3_projects.c
+	<stdio.h>
+
+1570203308 source:e:\c programming modern approach\learning\4.c
+	<stdio.h>
+
+1570204682 source:e:\c programming modern approach\learning\5.c
+	<stdio.h>
+
+1568492178 source:e:\c programming modern approach\learning\5_projects.c
+	<stdio.h>
+
+1568497788 source:e:\c programming modern approach\learning\6_projects.c
+	<stdio.h>
+
+1569582078 source:e:\c programming modern approach\learning\7.c
+	<stdio.h>
+	<ctype.h>
+
+1568562440 source:e:\c programming modern approach\learning\7_projects.c
+	<stdio.h>
+	<ctype.h>
+
+1569779222 source:e:\c programming modern approach\learning\8.c
+	<stdio.h>
+	<stdbool.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1568574426 source:e:\c programming modern approach\learning\8_projects.c
+	<stdio.h>
+	<stdbool.h>
+	<ctype.h>
+
+1568580204 source:e:\c programming modern approach\learning\9_projects.c
+	<stdio.h>
+
+1571252126 source:e:\c programming modern approach\learning\thing.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+
+1577050422 source:e:\c programming modern approach\learning\10.c
+	<stdio.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+
+1577060054 source:e:\c programming modern approach\learning\11.c
+	<stdio.h>
+	<stdio.h>
+
+1569342466 source:e:\c programming modern approach\learning\12_projects.c
+	<stdio.h>
+	<ctype.h>
+
+1577737096 source:e:\c programming modern approach\learning\13.c
+	<stdio.h>
+	<string.h>
+	<stdio.h>
+	<string.h>
+	<stdio.h>
+	<string.h>
+
+1571173520 source:e:\c programming modern approach\learning\14.c
+	<stdio.h>
+
+1578361662 source:e:\c programming modern approach\learning\12.c
+	<stdio.h>
+	<stdio.h>
+
+1576782902 source:e:\c programming modern approach\learning\2.c
+	<stdio.h>
+
+1568426640 source:e:\c programming modern approach\learning\4_projects.c
+	<stdio.h>
+
+1577376052 source:e:\c programming modern approach\learning\6.c
+	<stdio.h>
+
+1577036458 source:e:\c programming modern approach\learning\9.c
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdio.h>
+
+1578361672 source:e:\c programming modern approach\learning\16.c
+
+1578361680 source:e:\c programming modern approach\learning\17.c
+
+1578362836 source:e:\c programming modern approach\learning\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1577050422 source:c:\users\berka\onedrive\desktop\c\learning\10.c
+	<stdio.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+
+1577060054 source:c:\users\berka\onedrive\desktop\c\learning\11.c
+	<stdio.h>
+	<stdio.h>
+
+1568603288 source:c:\users\berka\onedrive\desktop\c\learning\11_projects.c
+	<stdio.h>
+
+1578361662 source:c:\users\berka\onedrive\desktop\c\learning\12.c
+	<stdio.h>
+	<stdio.h>
+
+1569342466 source:c:\users\berka\onedrive\desktop\c\learning\12_projects.c
+	<stdio.h>
+	<ctype.h>
+
+1577737096 source:c:\users\berka\onedrive\desktop\c\learning\13.c
+	<stdio.h>
+	<string.h>
+	<stdio.h>
+	<string.h>
+	<stdio.h>
+	<string.h>
+
+1569522730 source:c:\users\berka\onedrive\desktop\c\learning\13_projects.c
+	<stdio.h>
+	<string.h>
+
+1571173520 source:c:\users\berka\onedrive\desktop\c\learning\14.c
+	<stdio.h>
+
+1576782902 source:c:\users\berka\onedrive\desktop\c\learning\2.c
+	<stdio.h>
+
+1568412202 source:c:\users\berka\onedrive\desktop\c\learning\2_projects.c
+	<stdio.h>
+
+1569578700 source:c:\users\berka\onedrive\desktop\c\learning\3.c
+	<stdio.h>
+
+1568416250 source:c:\users\berka\onedrive\desktop\c\learning\3_projects.c
+	<stdio.h>
+
+1570203308 source:c:\users\berka\onedrive\desktop\c\learning\4.c
+	<stdio.h>
+
+1568426640 source:c:\users\berka\onedrive\desktop\c\learning\4_projects.c
+	<stdio.h>
+
+1570204682 source:c:\users\berka\onedrive\desktop\c\learning\5.c
+	<stdio.h>
+
+1568492178 source:c:\users\berka\onedrive\desktop\c\learning\5_projects.c
+	<stdio.h>
+
+1577376052 source:c:\users\berka\onedrive\desktop\c\learning\6.c
+	<stdio.h>
+
+1568497788 source:c:\users\berka\onedrive\desktop\c\learning\6_projects.c
+	<stdio.h>
+
+1569582078 source:c:\users\berka\onedrive\desktop\c\learning\7.c
+	<stdio.h>
+	<ctype.h>
+
+1568562440 source:c:\users\berka\onedrive\desktop\c\learning\7_projects.c
+	<stdio.h>
+	<ctype.h>
+
+1569779222 source:c:\users\berka\onedrive\desktop\c\learning\8.c
+	<stdio.h>
+	<stdbool.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1568574426 source:c:\users\berka\onedrive\desktop\c\learning\8_projects.c
+	<stdio.h>
+	<stdbool.h>
+	<ctype.h>
+
+1577036458 source:c:\users\berka\onedrive\desktop\c\learning\9.c
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdio.h>
+
+1568580204 source:c:\users\berka\onedrive\desktop\c\learning\9_projects.c
+	<stdio.h>
+
+1578363441 source:c:\users\berka\onedrive\desktop\c\learning\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1571252126 source:c:\users\berka\onedrive\desktop\c\learning\thing.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+

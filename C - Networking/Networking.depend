@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1609343639 source:c:\users\berka\onedrive\desktop\christmas\c\networking\main.c
+	<stdio.h>
+
+1609343693 source:c:\users\berka\onedrive\desktop\christmas\c\networking\win_list.c
+	<winsock2.h>
+	<iphlpapi.h>
+	<ws2tcpip.h>
+	<stdio.h>
+	<stdlib.h>
+
+1609270803 c:\users\berka\onedrive\desktop\christmas\c\networking\chapter1.h
+
+1609436406 source:c:\users\berka\onedrive\desktop\christmas\c\networking\win_init.c
+	<stdio.h>
+	<winsock2.h>
+
+1609343651 source:c:\users\berka\onedrive\desktop\christmas\c\networking\sock_init.c
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<netinet/in.h>
+	<arpa/inet.h>
+	<netdb.h>
+	<unistd.h>
+	<errno.h>
+	<stdio.h>
+
